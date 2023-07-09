@@ -102,3 +102,4 @@
 Note:-
 - In Infrastructure have our Interfaces thats known as Repositories. and in Repository folder has implimentations of Repositories.
 - difference between in dropdown and dropdownlist is droopdownlist show always as a list. but dropdown is open and close on button click.
+- In Vs Code After running application past /swagger/index.html in last for running swagger
